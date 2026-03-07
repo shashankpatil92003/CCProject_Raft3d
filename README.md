@@ -181,7 +181,6 @@ go run main.go --id=node3 --http=8002 --raftport=5003
 
 -   Sai Mourya N Doddamani\
 -   Sai Ganesh\
--   Samarth NN\
 -   **Shashank R Patil**\
 -   Vignesh
 
