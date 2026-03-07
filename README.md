@@ -179,9 +179,9 @@ go run main.go --id=node3 --http=8002 --raftport=5003
 
 ## 👨‍💻 Team
 
--   Sai Mourya N Doddamani\
--   Sai Ganesh\
 -   **Shashank R Patil**\
+-   Sai Ganesh\
+-   Sai Mourya N Doddamani\
 -   Vignesh
 
 **PES University --- Cloud Computing Mini Project**
